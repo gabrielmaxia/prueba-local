@@ -25,8 +25,8 @@ public class Problema4 {
         float pg;
         System.out.println("ingresa el precio por galon");
         /*
-        
-        */
+         * segundo cambio
+         */
         pg = pgalon.nextInt();
         float galon;
         float total;
