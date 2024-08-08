@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author alexa
+ * @author GabrielMaxia
  */
 public class Problema4 {
 
